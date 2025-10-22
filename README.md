@@ -50,9 +50,6 @@ Enter the second number : 5
 ```
 # Output
 
-![Screenshot 1](calci.jpg)
-![Screenshot 2](calcu.jpg)
-
 <p float="left">
   <img src="calci.jpg" width="300" />
   <img src="calcu.jpg" width="300" />
