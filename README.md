@@ -2,8 +2,6 @@
 
 A simple **Command Line Calculator** built in **Python** that performs basic arithmetic operations — Addition, Subtraction, Multiplication, and Division — using user input directly through the terminal.
 
----
-
 ## Features
 
 * **Addition** of two numbers
@@ -13,15 +11,11 @@ A simple **Command Line Calculator** built in **Python** that performs basic ari
 * **Interactive Menu Loop** — perform multiple operations without restarting the program
 * **Exit Option** to end the program 
 
----
-
 ## Requirements
 
 * Python 3.12.7
 * VS Code or any code editor
 * Access to an integrated or system terminal
-
----
 
 ## How to Run
 
@@ -39,9 +33,7 @@ A simple **Command Line Calculator** built in **Python** that performs basic ari
    5. Exit Loop
    Enter your choice :
    ```
-
----
-
+   
 ## Example Output
 
 ```
@@ -65,7 +57,4 @@ Enter the second number : 5
   <img src="calci.jpg" width="300" />
   <img src="calcu.jpg" width="300" />
 </p>
-
----
-
 
